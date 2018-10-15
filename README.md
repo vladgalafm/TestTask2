@@ -1,8 +1,8 @@
 # TestTaskCopy
 Copy of the TestTask project
-## Markdown test file
-### Examples of using html syntax
-1. Emphasis
+Markdown test file
+## Examples of using html syntax
+### Emphasis
 
 ⋅⋅* Emphasis, aka italics, with *asterisks* or _underscores_.
 
@@ -12,7 +12,7 @@ Copy of the TestTask project
 
 ⋅⋅* Strikethrough uses two tildes. ~~Scratch this.~~
 
-2. Links
+### Links
 
 [Inline-style link](https://github.com/ "GitHub's page")
 
@@ -20,7 +20,7 @@ or
 
 Using the link text itself: <https://github.com/>
 
-3. Images
+### Images
 
 Example:
 
