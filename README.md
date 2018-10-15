@@ -24,10 +24,12 @@ var s = "JavaScript syntax highlighting";
 alert(s);
 ```
 ### Tables
-Example       |       |      
------------- |------| -----
-1st line      | 4     | 100  
-2nd line      | 5     | 101  
-3rd line      | 6     | 110  
+
+Example | of | table
+--- | --- | ---
+1st line | 4 | 100 
+2nd line | 5 | 101 
+3rd line | 6 | 110
+
 ### Blockquotes
 > Example of a blockquote
